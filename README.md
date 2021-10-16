@@ -3,5 +3,7 @@ Following Data Structures and Algorithms in Java - Robert Lafore programming pro
 
 
 Ch.2 - Arrays
+  - [] HighArray
+  - [] OrdArray
 
 Ch.3 - Simple Sorting
