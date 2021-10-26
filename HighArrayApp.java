@@ -39,5 +39,9 @@ class HighArrayApp {
         }
         System.out.println("Sorting array...");
         arrSorted.display();
+
+        System.out.println("Running noDups()...");
+        arrSorted.noDups();
+        arrSorted.display();
     }
 }

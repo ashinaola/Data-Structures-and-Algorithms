@@ -13,7 +13,7 @@ class OrdArray {
         return nElems;
     }
 
-    public int fetch(int indx) {
+    public long fetch(int indx) {
         return a[indx];
     }
 

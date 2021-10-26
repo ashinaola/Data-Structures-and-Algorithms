@@ -63,4 +63,11 @@ class highArray {
     public void removeMax() {
         delete(getMax());
     }
+
+    public void noDups() {
+        for(int i = 0; i < nElems-1; i++) {
+            if(a[i] == a[i+1])
+                delete(a[i+i]);
+        }
+    }
 }
