@@ -3,7 +3,9 @@ Following Data Structures and Algorithms in Java - Robert Lafore programming pro
 
 
 Ch.2 - Arrays
-  - [] HighArrayApp.java & highArray.java
-  - [] OrderedApp.java & OrdArray.java
+  - [x] HighArrayApp.java & highArray.java
+  - [x] OrderedApp.java & OrdArray.java
 
 Ch.3 - Simple Sorting
+  - [] bubbleSort.java
+  - [] insertSort.java
