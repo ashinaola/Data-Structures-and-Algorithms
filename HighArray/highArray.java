@@ -1,3 +1,5 @@
+package HighArray;
+
 class highArray {
     // demonstrates array class with high level interface
     private long[] a;

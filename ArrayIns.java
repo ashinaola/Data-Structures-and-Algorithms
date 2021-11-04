@@ -30,4 +30,25 @@ class ArrayIns {
             a[in] = temp;
         }
     }
+
+    // returns the median member of the array
+    public void median() {
+
+    }
+
+    // removes duplicates from previously sorted array
+    // make sure no item is moved more than once
+    public void noDups() {
+
+    }
+
+    // adds a counter to count how many compares and swaps were done
+    public void modifiedInSort() {
+
+    }
+
+    // sorts the array so that there are no duplicates (removes when duplicate is found)
+    public void noDupSort() {
+
+    }
 }
