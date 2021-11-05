@@ -68,17 +68,17 @@ class ArrayBub {
     */
     public void oddEvenSort() {
         // initialize odd and even pointer
-        int even, odd;
+        int out, inEvn, inOdd;
         // swap odd indexes first then even indexes
-        /*
-        for() {
-            for() {
-
+        for(out = nElems-1; out > 1; out--) {
+            for(inEvn = 0; inEvn < out; inEvn++) {
+                if((a[inEvn] > a[inEvn+2]) && (inEvn % 2 == 0))
+                    swap(inEvn, inEvn+2);
             }
-            while() {
-
+            for(inOdd = 0; inOdd < out; inOdd++) {
+                if((a[inOdd] > a[inOdd+2]) && (inOdd % 2 == 1))
+                    swap(inOdd, inOdd+2); 
             }
         }
-        */
     }
 }

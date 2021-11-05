@@ -32,14 +32,16 @@ class ArrayIns {
     }
 
     // returns the median member of the array
-    public void median() {
-
+    public long median() {
+        return a[nElems / 2];
     }
 
     // removes duplicates from previously sorted array
     // make sure no item is moved more than once
-    public void noDups() {
-
+    public long[] noDups() {
+        long[] ret = new long[nElems];
+        
+        return ret;
     }
 
     // adds a counter to count how many compares and swaps were done
