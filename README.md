@@ -1,5 +1,5 @@
-# Robert_Lafore_DSA
-Following Data Structures and Algorithms in Java - Robert Lafore programming projects:
+# DSA
+Following Data Structures and Algorithms in Java projects:
 
 
 Ch.2 - Arrays
